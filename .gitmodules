@@ -1,0 +1,8 @@
+[submodule "goap"]
+	path = goap
+	url = https://github.com/agoose77/goap
+	branch = "full_system"
+	
+[submodule "pype"]
+	path = pype
+	url = https://github.com/agoose77/pype
